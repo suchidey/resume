@@ -71,9 +71,11 @@ _President, NUS MBA Social Impact club, Student Council Elections 2015-16_
 - Awarded best outgoing president among 15 presidents running various clubs across student’s council. 
 - Recipient of Women in Business award, for launching and running an FF Apparel &amp; Lifestyle business in India.
 
+
 #### QUORA
 _Top writer, Politics and Women studies_
 - Awarded Top writer for a viral and thought provoking article on India’s women safety landscape. (No. of views: 5m,Up Votes: 23 k)
+
 
 #### PROFESSIONAL
 _Ks Apparel &amp; Deloitte_

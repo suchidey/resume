@@ -66,9 +66,9 @@ conversions by optimizing PPC &amp; Social media marketing campaign performances
 
 ## LEADERSHIP AND RECOGNITION
 #### NUS MBA
-_President, NUS MBA Social Impact club, Student Council Elections 2015-16_
-    - Served 70 Social Enterprises across APAC by leading pro-bono consulting activities with Singapore International Foundation
-    - Awarded best outgoing president among 15 presidents running various clubs across student’s council.
+_President, NUS MBA Social Impact club, Student Council Elections 2015-16_ 
+    - Served 70 Social Enterprises across APAC by leading pro-bono consulting activities with Singapore International Foundation 
+    - Awarded best outgoing president among 15 presidents running various clubs across student’s council. 
     - Recipient of Women in Business award, for launching and running an FF Apparel &amp; Lifestyle business in India.
 #### QUORA
 _Top writer, Politics and Women studies_

@@ -14,7 +14,7 @@ facing high visibility roles and excels in managing stakeholder expectation with
 
 | University | Degree | Duration |
 | ------ | ------ | ------ | ------ |
-| NATIONAL UNIVERSITY OF SINGAPORE, MBA| *MBA IN STRATEGY AND FINANCE* | Aug2015- Dec2016 |
+| NATIONAL UNIVERSITY OF SINGAPORE| *MBA IN STRATEGY AND FINANCE* | Aug2015- Dec2016 |
 | BIRLA INSTITUTE OF TECHNOLOGY| *B.TECH IN COMPUTER SCIENCE AND ENGINEERING* | May2007-June2011 | 
 
 ## KEY SKILLS

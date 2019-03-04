@@ -1,4 +1,3 @@
-![an example red dot](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==)
 # Resume
  [![Linkedin](https://img.shields.io/badge/Linkedin-Profile-informational.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suchandra-dey-b01a6a9/) 
 

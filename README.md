@@ -3,11 +3,7 @@
 
 
 ## About me:
-> A strategy consulting professional with a commercial mind-set. She has an MBA from National University of Singapore with 6 years of MNC and
-SME experience of leading teams as a functional consultant, strategic adviser and project manager across various verticals including banking,
-retail, FMCG, and TMT. She has proficient knowledge of hypothesis driven consulting and insight driven strategy formulation, project ideation,
-management from scoping to execution, defining and measuring KPIs to ensure quantifiable results within strict deadlines. She thrives in client
-facing high visibility roles and excels in managing stakeholder expectation with her fluid communication skills.
+> I would describe myself as strategic thinker with a passion for building meaningful products that matter. I have an MBA from National University of Singapore with 6 years of experience of leading teams as a functional consultant, strategic adviser and project manager across various verticals including banking, retail, FMCG, and TMT. I have proficient knowledge of hypothesis driven consulting and insight driven strategy formulation, project ideation, management from scoping to execution, defining and measuring KPIs to ensure quantifiable results within strict deadlines. I thrive in client facing high visibility roles and excel in managing stakeholder expectation with structured and clear thinking and fluid communication.
 
 ## EDUCATION
 

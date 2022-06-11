@@ -1,6 +1,7 @@
 #Install 
 #flutter pub global activate peanut
-
+flutter clean
+flutter pub get
 # Run
 flutter pub global run peanut
 

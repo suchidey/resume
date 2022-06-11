@@ -33,7 +33,7 @@ class UI {
     return MenuButton(
       onTap: onTap,
       child: Padding(
-        padding: constant.paddingAll6,
+        padding: constant.paddingAllLink,
         child: Row(
           children: <Widget>[
             if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),

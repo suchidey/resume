@@ -35,16 +35,16 @@ class WorkPageState extends State<WorkPage> {
   @override
   Widget build(BuildContext context) {
     return BasePage(
-      child: Padding(
-        padding: constant.paddingSymmetric,
-        child: LayoutBuilder(
-          builder: (_, constrain) {
-            return Column(
+      child: LayoutBuilder(
+        builder: (_, constrain) {
+          return Padding(
+            padding: constant.getPaddingPage(isTablet: constant.isTablet(constrain)),
+            child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[PageTitle(data.work), SizedBox(height: constant.padding18), body()],
-            );
-          },
-        ),
+            ),
+          );
+        },
       ),
     );
   }

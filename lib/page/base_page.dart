@@ -14,6 +14,6 @@ class BasePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Center(child: Container(margin: constant.paddingAll4, child: ui.getCard(child)));
+    return Center(child: Container(margin: constant.paddingAll32, child: ui.getCard(child)));
   }
 }

@@ -30,6 +30,64 @@ class UI {
   }
 
   Widget getWorkIconText(String title, {IconData? icon, VoidCallback? onTap, bool animate = true}) {
+    if (onTap == null) {
+      return Padding(
+        padding: constant.paddingAllLink,
+        child: Row(
+          children: <Widget>[
+            if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
+            if (icon != null) SizedBox(width: constant.i8),
+            ui.getH9(title),
+            SizedBox(width: constant.i8),
+          ],
+        ),
+      );
+    } else {
+      return TextButton(
+        style: TextButton.styleFrom(
+          primary: theme.textColor,
+          onSurface: theme.primaryColor,
+        ),
+        onPressed: onTap,
+        child: Row(
+          children: <Widget>[
+            if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
+            if (icon != null) SizedBox(width: constant.i8),
+            ui.getH9b(title),
+            SizedBox(width: constant.i8),
+          ],
+        ),
+      );
+    }
+/*
+    if (onTap == null) {
+      return Padding(
+        padding: constant.paddingAllLink,
+        child: Row(
+          children: <Widget>[
+            if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
+            if (icon != null) SizedBox(width: constant.i8),
+            ui.getH9(title),
+            SizedBox(width: constant.i8),
+          ],
+        ),
+      );
+    } else {
+      return InkWell(
+        child: Padding(
+          padding: constant.paddingAllLink,
+          child: Row(
+            children: <Widget>[
+              if (icon != null) ui.getIcon(icon, constant.iconSmall, color: theme.textColor),
+              if (icon != null) SizedBox(width: constant.i8),
+              ui.getH9b(title),
+              SizedBox(width: constant.i8),
+            ],
+          ),
+        ),
+        onTap: onTap,
+      );
+    } 
     return MenuButton(
       onTap: onTap,
       child: Padding(
@@ -44,7 +102,7 @@ class UI {
         ),
       ),
       animate: animate,
-    );
+    );*/
   }
 
   Widget getAppIconText(String title, IconData icon, {VoidCallback? onTap}) {

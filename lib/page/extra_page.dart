@@ -45,7 +45,7 @@ class ExtraPageState extends State<ExtraPage> {
                             if (element.url != null)
                               ui.getWorkIconText("- ${element.text}", icon: null, onTap: () => {launch(element.url!)})
                             else
-                              ui.getWorkIconText("- ${element.text}", icon: null, onTap: () => {}, animate: false), //ui.getH9i("- ${element.text}"),
+                              ui.getWorkIconText("- ${element.text}", icon: null, onTap: null, animate: false), //ui.getH9i("- ${element.text}"),
                             if (element.link != null) ui.getWorkIconText("", icon: Icons.download, onTap: () => {launch(element.link!)}),
                           ]),
                           if (element.app != null)

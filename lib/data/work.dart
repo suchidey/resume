@@ -53,9 +53,9 @@ class AllWork {
   String get url5 => "https://www2.deloitte.com/in/en.html";
 
   String get work0 => "ZALANDO SE\n(Berlin) Jan 2022 - Present";
-  String get work1 => "SCOUT24 A\n(Berlin) Jan 2021 - Dec 2021";
+  String get work1 => "SCOUT24 AG\n(Berlin) Jan 2021 - Dec 2021";
   String get work2 => "DOCDOC PTE LTD\n(Singapore) Oct 2018 - Jul 2020";
-  String get work3 => "M-BRAIN GROU\n(Singapore) Feb 2017 - Sept 2018";
+  String get work3 => "M-BRAIN GROUP\n(Singapore) Feb 2017 - Sept 2018";
   String get work4 => "KS APPAREL\n(Calcutta) Aug 2014 - Jul 2015";
   String get work5 => "DELOITTE CONSULTING LLP\n(Hyderabad) Jun 2011 - Aug 2014";
 

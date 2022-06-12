@@ -13,7 +13,6 @@ class Constants {
 
   get margin12 => 12;
 
-  var d108 = 108.0;
   get i4 => 4;
   get i8 => 8;
   get i6 => 6;
@@ -80,6 +79,9 @@ class Constants {
   get i24 => 24;
 
   get i180 => 180;
+
+  get d48 => 48;
+  var d108 = 108.0;
 
   get cellHeight => 84;
   get cellHeaderHeight => 32;
